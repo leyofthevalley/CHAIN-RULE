@@ -1,5 +1,5 @@
 #To run the code. First, install the sympy by typing 'pip install sympy' on the terminal.
-#Make sure to have python first.
+#Make sure to have python.
 
 import tkinter as tk
 from tkinter import ttk, messagebox
